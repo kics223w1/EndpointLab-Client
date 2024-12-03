@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "http2": "node http2-client.js",
+    "http2": "node http2/http2-client.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
